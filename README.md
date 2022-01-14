@@ -4,6 +4,6 @@ The purpose of this project was to automate the summarizing of election results 
 ## Election Audit Results
 Results are shown in the following image of the printed txt file that this script will produce.
 
-![image] (https://github.com/ShaneDoane/Election-analysis/blob/main/Resources/Election_Results.png)
+![image](https://github.com/ShaneDoane/Election-analysis/blob/main/Resources/Election_Results.png)
 
 ## Summary
